@@ -1,2 +1,2 @@
-Hi! I´m Veselin. I´m new here!
+Hi! I´m Veselin. I am learning git bash!
 I want to learn programing?
